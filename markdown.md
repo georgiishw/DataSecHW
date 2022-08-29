@@ -26,4 +26,6 @@ Wargames:
 (ok so the first two levels were super simple, besides my general confusion about Debian and PuTTY, but now I kinda understand how terminal-based programs operate.
 after that i double-tripple checked the password for the next level but it just kept denying access, i would really like to know why - my best guess is that i'm doing something wrong with my login credentials)
 
+WebGoat 8:
 
+That's what I've had the most confusion with. So in the guide provided on the website, Kali and Ubuntu are used in order to demonstrate the installation process. Thats what really confused me since my Debian VM only has an SSH environment which doesn't recognize "$ sudo" commands. I guess I did something wrong during the installation but everything outside of that seems to work, SSH Wargames for example, not that I tried anything more than that so far.
