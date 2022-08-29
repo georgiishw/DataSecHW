@@ -4,6 +4,7 @@ This is the start of my markdown document for Data Security course of Fall 2022.
 h1
 
 Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain and 3.3 Courses of Action, summarized:
+
 The US Department of Defense refers to the Intrusion Kill Chain as a "chain" because it is an integrated, end-to-end process. It consists of C&C, installation, delivery, exploitation, weaponization, and actions on objectives. In order to enter the target environment, intruders must first establish a C2 channel. This enables them to gather, encrypt, and extract data from the victim's environment.
 They will then take action to achieve their original goals of data exfiltration and other forms of network intrusion. Figure 2 depicts an example of a seven-month series of intrusion attempts from a single APT campaign.
 
